@@ -71,6 +71,11 @@ hr {
   background-color: #333; /* Modern Browsers */
 }
 
+p {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5rem;
+}
+
 .container {
   width: 876px;
   margin: 0 auto;
